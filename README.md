@@ -89,15 +89,6 @@ I'm a passionate Computer Science Engineer exploring the world of *AI, **Web Dev
 
 ---
 
-## 📜 Certifications
-
-- 🏅 Java | Python | Machine Learning – Infosys Springboard
-- 🛡 C & Python Essentials – Cisco
-- 🎖 Hackerrank Badges: Problem Solving, Python, Java, CSS
-- 🌐 [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/Pradeep005/responsive-web-design)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">

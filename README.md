@@ -1,30 +1,132 @@
-<h1 align="center">Hi 👋, I'm GUNDU PRADEEP</h1>
-<h3 align="center">A passionate full-stack web developer & AI/ML enthusiast</h3>
-
-- 🔭 I’m currently working on [AutoSage – AI-Powered Automotive Assistant https://github.com/Pradeep200517/AutoSage-App-Using-Gemini-Flash](https://github.com/Pradeep200517/AutoSage-App-Using-Gemini-Flash)
-
-- 🌱 I’m currently learning **Machine Learning, Full-Stack Development,DSA**
-
-- 👯 I’m looking to collaborate on [Gym Management System – Full-Stack Web Platform A secure gym portal for user registration, workout logging, and payment tracking with JWT-based authentication.](https://github.com/Pradeep200517/Gym-Management)
-
-- 👨‍💻 All of my projects are available at [https://pradeep200517.github.io/PORTFOLIO1/](https://pradeep200517.github.io/PORTFOLIO1/)
-
-- 📫 How to reach me **gundupradeep2005@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gdn3jmy7GJwtpw8ZYLoPGc_ta8CrZfcY/view?usp=sharing](https://drive.google.com/file/d/1Gdn3jmy7GJwtpw8ZYLoPGc_ta8CrZfcY/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gundu pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gundu pradeep" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pradeep__2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pradeep__2005" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pradeep__2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pradeep__2005" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pradeep__2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pradeep__2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pradeep__2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pradeep__2005" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1fa2ff&height=200&section=header&text=Gundu%20Pradeep&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=1fa2ff&center=true&vCenter=true&width=435&lines=Engineering+creativity+into+code;Turning+ideas+into+impact!" alt="Typing Animation" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeep200517&show_icons=true&locale=en&layout=compact" alt="pradeep200517" /></p>
+<h1 align="center">Hi 👋, I'm Gundu Pradeep</h1>
+<h3 align="center">💻 Computer Science Engineer | 2nd Year @ Vasavi College of Engineering</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep200517&" alt="pradeep200517" /></p>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="60%" alt="Coding Man Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gundu-pradeep-8abba2322/">
+    <img src="https://img.shields.io/badge/LinkedIn-1fa2ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pradeep200517">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:gundupradeep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gundupradeep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a passionate Computer Science Engineer exploring the world of *AI, **Web Development, and **Core Programming*. I love solving real-world problems through innovation and technology.
+
+⚡ I actively participate in national hackathons, contribute to open source, and build impactful projects.  
+🌱 Currently diving deeper into *Machine Learning, **Full-Stack Development, and **Backend Systems*.  
+💡 I believe in coding with empathy, building with purpose, and learning endlessly.
+
+---
+
+## 🛠 Tech Stack
+
+*Languages*  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+*Frontend & Backend*  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+*AI/ML*  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
+
+*Database*  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+*Tools & Platforms*  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+---
+
+## 🌟 Highlights
+
+- 🥇 *GenAI Hackathon 2025 – 3rd Place* (SmartBridge x NASSCOM x FutureSkills Prime)
+- 🏆 *SIH 2024 Pre-Finalist* – Top 15 out of 50 Teams
+- 🤝 *Contributor @ Social Summer of Code (SSoC) Season 4*
+- 🚗 *Built AutoSage* – AI-Powered Vehicle Assistant using Gemini Flash API
+- 🧪 Constantly experimenting with side projects, prototypes, and full-stack apps
+
+---
+
+## 📦 Featured Projects
+
+### 🔹 [AutoSage](https://github.com/Pradeep200517/AutoSage-App-Using-Gemini-Flash)
+> An AI-powered automobile recommender powered by Gemini Flash API, delivering specs, comparisons, and reviews in real-time.  
+*Tech Stack:* HTML, CSS, JavaScript
+
+### 🔹 [Gym Management System](https://github.com/Pradeep200517/Gym-Management)
+> Full-stack web app with member registration, workout tracking, and JWT-secured login.  
+*Tech Stack:* Node.js, Express.js, MySQL, HTML, CSS, JavaScript
+
+
+---
+
+## 📜 Certifications
+
+- 🏅 Java | Python | Machine Learning – Infosys Springboard
+- 🛡 C & Python Essentials – Cisco
+- 🎖 Hackerrank Badges: Problem Solving, Python, Java, CSS
+- 🌐 [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/Pradeep005/responsive-web-design)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep200517&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep200517&theme=radical" width="49%"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep200517&layout=compact&theme=radical" width="40%"/>
+  <img src="https://komarev.com/ghpvc/?username=Pradeep200517&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+📫 *Email:* [gundupradeep@gmail.com](mailto:gundupradeep@gmail.com)  
+💼 *LinkedIn:* [linkedin.com/in/gundu-pradeep-8abba2322](https://www.linkedin.com/in/gundu-pradeep-8abba2322/)  
+🔗 *GitHub:* [github.com/Pradeep200517](https://github.com/Pradeep200517)
+
+---
+
+## 🎯 My Vision
+
+> I aspire to be an engineer who codes with empathy, builds with purpose, and leads with passion.  
+I’m passionate about *ML, **large-scale backend systems, and **open-source community growth*. 🌱
+
+---
+
+<p align="center"><i>"Stay curious, keep building, and let your code speak louder than words."</i></p>

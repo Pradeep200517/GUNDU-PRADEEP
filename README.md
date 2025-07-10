@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gundu Pradeep</h1>
-<h3 align="center">💻 Computer Science Engineer | 2nd Year @ Vasavi College of Engineering</h3>
+<h3 align="center">💻 Computer Science Engineer | 3rd Year @ Vasavi College of Engineering</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="60%" alt="Coding Man Animation"/>
